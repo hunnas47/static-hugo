@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hadi Hunnas</title>
-    <link>https://hunnas47.github.io/static-hugo/</link>
+    <link>https://iamhunnas.xyz/</link>
     <description>Recent content on Hadi Hunnas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 18 May 2022 10:06:18 +0530</lastBuildDate><atom:link href="https://hunnas47.github.io/static-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 10:06:18 +0530</lastBuildDate><atom:link href="https://iamhunnas.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Hardening</title>
-      <link>https://hunnas47.github.io/static-hugo/posts/linux-hardening/</link>
+      <link>https://iamhunnas.xyz/posts/linux-hardening/</link>
       <pubDate>Wed, 18 May 2022 10:06:18 +0530</pubDate>
       
-      <guid>https://hunnas47.github.io/static-hugo/posts/linux-hardening/</guid>
+      <guid>https://iamhunnas.xyz/posts/linux-hardening/</guid>
       <description>Threat Modelling https://www.wired.com/2017/12/digital-security-guide/
 Passwords https://www.pluralsight.com/blog/security-professional/modern-password-guidelines
 Firewall Comparison https://opensource.com/article/18/9/linux-iptables-firewalld
@@ -25,19 +25,19 @@ Advanced Hardening Resources:  https://github.com/shaurya-007/NSA-Linux-Hardenin
     
     <item>
       <title>About</title>
-      <link>https://hunnas47.github.io/static-hugo/about/</link>
+      <link>https://iamhunnas.xyz/about/</link>
       <pubDate>Wed, 18 May 2022 08:29:22 +0530</pubDate>
       
-      <guid>https://hunnas47.github.io/static-hugo/about/</guid>
+      <guid>https://iamhunnas.xyz/about/</guid>
       <description>This is me bro! Assume that i&amp;rsquo;m good and save time.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://hunnas47.github.io/static-hugo/posts/my-first-post/</link>
+      <link>https://iamhunnas.xyz/posts/my-first-post/</link>
       <pubDate>Wed, 18 May 2022 07:50:04 +0530</pubDate>
       
-      <guid>https://hunnas47.github.io/static-hugo/posts/my-first-post/</guid>
+      <guid>https://iamhunnas.xyz/posts/my-first-post/</guid>
       <description>This is a new beginning</description>
     </item>
     
