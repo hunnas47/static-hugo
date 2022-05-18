@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hadi Hunnas</title>
+        <link>https://iamhunnas.xyz/posts/</link>
+        <description>Recent content in Posts on Hadi Hunnas</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 18 May 2022 10:06:18 +0530</lastBuildDate>
+        <atom:link href="https://iamhunnas.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Linux Hardening</title>
+            <link>https://iamhunnas.xyz/posts/linux-hardening/</link>
+            <pubDate>Wed, 18 May 2022 10:06:18 +0530</pubDate>
+            
+            <guid>https://iamhunnas.xyz/posts/linux-hardening/</guid>
+            <description>Threat Modelling https://www.wired.com/2017/12/digital-security-guide/
+Passwords https://www.pluralsight.com/blog/security-professional/modern-password-guidelines
+Firewall Comparison https://opensource.com/article/18/9/linux-iptables-firewalld
+SELinux Explained https://youtu.be/_WOKRaM-HI4
+Basic Hardening: https://linuxhint.com/linux_security_hardening_checklist/
+Intermediate Hardening: https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
+Advanced Hardening Resources:  https://github.com/shaurya-007/NSA-Linux-Hardening-docs (Kickback) https://amzn.to/3jCp7JC https://github.com/CISOfy/lynis  </description>
+            <content type="html"><![CDATA[<h2 id="threat-modelling">Threat Modelling</h2>
+<p><a href="https://www.wired.com/2017/12/digital-security-guide/">https://www.wired.com/2017/12/digital-security-guide/</a></p>
+<h2 id="passwords">Passwords</h2>
+<p><a href="https://www.pluralsight.com/blog/security-professional/modern-password-guidelines">https://www.pluralsight.com/blog/security-professional/modern-password-guidelines</a></p>
+<h2 id="firewall-comparison">Firewall Comparison</h2>
+<p><a href="https://opensource.com/article/18/9/linux-iptables-firewalld">https://opensource.com/article/18/9/linux-iptables-firewalld</a></p>
+<h2 id="selinux-explained">SELinux Explained</h2>
+<p><a href="https://youtu.be/_WOKRaM-HI4">https://youtu.be/_WOKRaM-HI4</a></p>
+<h2 id="basic-hardening">Basic Hardening:</h2>
+<p><a href="https://linuxhint.com/linux_security_hardening_checklist/">https://linuxhint.com/linux_security_hardening_checklist/</a></p>
+<h2 id="intermediate-hardening">Intermediate Hardening:</h2>
+<p><a href="https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html">https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html</a></p>
+<h2 id="advanced-hardening-resources">Advanced Hardening Resources:</h2>
+<ul>
+<li><a href="https://github.com/shaurya-007/NSA-Linux-Hardening-docs">https://github.com/shaurya-007/NSA-Linux-Hardening-docs</a></li>
+<li>(Kickback) <a href="https://amzn.to/3jCp7JC">https://amzn.to/3jCp7JC</a></li>
+<li><a href="https://github.com/CISOfy/lynis">https://github.com/CISOfy/lynis</a></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My First Post</title>
+            <link>https://iamhunnas.xyz/posts/my-first-post/</link>
+            <pubDate>Wed, 18 May 2022 07:50:04 +0530</pubDate>
+            
+            <guid>https://iamhunnas.xyz/posts/my-first-post/</guid>
+            <description>This is a new beginning</description>
+            <content type="html"><![CDATA[<p>This is a new beginning</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

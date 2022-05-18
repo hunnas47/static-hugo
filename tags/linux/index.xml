@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Hadi Hunnas</title>
+    <link>https://iamhunnas.xyz/tags/linux/</link>
+    <description>Recent content in linux on Hadi Hunnas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 18 May 2022 10:06:18 +0530</lastBuildDate><atom:link href="https://iamhunnas.xyz/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Hardening</title>
+      <link>https://iamhunnas.xyz/posts/linux-hardening/</link>
+      <pubDate>Wed, 18 May 2022 10:06:18 +0530</pubDate>
+      
+      <guid>https://iamhunnas.xyz/posts/linux-hardening/</guid>
+      <description>Threat Modelling https://www.wired.com/2017/12/digital-security-guide/
+Passwords https://www.pluralsight.com/blog/security-professional/modern-password-guidelines
+Firewall Comparison https://opensource.com/article/18/9/linux-iptables-firewalld
+SELinux Explained https://youtu.be/_WOKRaM-HI4
+Basic Hardening: https://linuxhint.com/linux_security_hardening_checklist/
+Intermediate Hardening: https://docs.fedoraproject.org/en-US/Fedora/17/html/Security_Guide/chap-Security_Guide-Basic_Hardening.html
+Advanced Hardening Resources:  https://github.com/shaurya-007/NSA-Linux-Hardening-docs (Kickback) https://amzn.to/3jCp7JC https://github.com/CISOfy/lynis  </description>
+    </item>
+    
+  </channel>
+</rss>
